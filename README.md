@@ -1,0 +1,1 @@
+# XiaomiOfficialPatchNv VMP全还原+反混淆，可编译可运行。
